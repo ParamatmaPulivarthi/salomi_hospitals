@@ -1,0 +1,13 @@
+hospitalname~country~location[city/state]
+mayoclinic~unitedstates~rochester'minnesota
+clevelandclinic~unitedstates~cleveland'ohio
+torontogeneraluniversityhealithnetwork~canada~toronto'ontario
+thejohnshopkinshospital~unitedstates~baltimore'maryland)
+karolinskauniversitetssjukhuset~sweden~solna'stockholm
+bumrungradinternationalhospital~thailand~bangkok
+asanmedicalcenter~southkorea~seoul
+allindiainstituteofmedicalsciences_delhi(aiims)~india~newdelhi
+stthomas'hospital~unitedkingdom~london
+hospitalisraelitaalberteinstein~brazil~saopaulo
+
+
